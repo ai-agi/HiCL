@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HierarchicalContrast
 
 This repository contains code and data for the **EMNLP2023** paper **"HierarchicalContrast: A Coarse-to-Fine Contrastive Learning Framework for Cross-Domain Zero-Shot Slot Filling"**
@@ -56,3 +57,7 @@ If you use our code or find HierarchicalContrast useful in your work, please cit
 	arXiv:2310.09135 [cs.AI]
  	(or arXiv:2310.09135v2 [cs.AI] for this version)
     https://doi.org/10.48550/arXiv.2310.09135
+=======
+# HiCL
+The official code for EMNLP 2023 paper HiCL [HierarchicalContrast: A Coarse-to-Fine Contrastive Learning Framework for Cross-Domain Zero-Shot Slot Filling.](https://arxiv.org/pdf/2310.09135.pdf)
+>>>>>>> b0d3138dd3d354232ef6a1fbb326a25d47184bff
