@@ -53,8 +53,15 @@ python main.py --target_domain="dataset name"
 ## Citation
 If you use our code or find HierarchicalContrast useful in your work, please cite our paper as:
 
-	arXiv:2310.09135 [cs.AI]
- 	(or arXiv:2310.09135v2 [cs.AI] for this version)
-    https://doi.org/10.48550/arXiv.2310.09135
+      @misc{zhang2023hierarchicalcontrastcoarsetofinecontrastivelearning,
+      title={HierarchicalContrast: A Coarse-to-Fine Contrastive Learning Framework for Cross-Domain Zero-Shot Slot Filling}, 
+      author={Junwen Zhang and Yin Zhang},
+      year={2023},
+      eprint={2310.09135},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2310.09135}, 
+}
+
 # HiCL
 The official code for EMNLP 2023 paper HiCL [HierarchicalContrast: A Coarse-to-Fine Contrastive Learning Framework for Cross-Domain Zero-Shot Slot Filling.](https://arxiv.org/pdf/2310.09135.pdf)
