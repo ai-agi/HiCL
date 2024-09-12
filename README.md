@@ -60,8 +60,7 @@ If you use our code or find HierarchicalContrast useful in your work, please cit
       eprint={2310.09135},
       archivePrefix={arXiv},
       primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2310.09135}, 
-}
+      url={https://arxiv.org/abs/2310.09135}, }
 
 # HiCL
 The official code for EMNLP 2023 paper HiCL [HierarchicalContrast: A Coarse-to-Fine Contrastive Learning Framework for Cross-Domain Zero-Shot Slot Filling.](https://arxiv.org/pdf/2310.09135.pdf)
